@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.hikari",
+      "sha256_cert_fingerprints": [
+        "10:02:BC:9D:E7:4F:94:B7:75:DF:BA:32:A4:23:9E:EC:54:8C:E7:7C:22:45:FD:8A:A1:4D:7A:8A:AA:CA:E3:E5"
+      ]
+    }
+  }
+]
