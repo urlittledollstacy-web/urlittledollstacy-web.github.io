@@ -5,7 +5,9 @@
       "namespace": "android_app",
       "package_name": "app.hikari",
       "sha256_cert_fingerprints": [
-        "10:02:BC:9D:E7:4F:94:B7:75:DF:BA:32:A4:23:9E:EC:54:8C:E7:7C:22:45:FD:8A:A1:4D:7A:8A:AA:CA:E3:E5"
+        "10:02:BC:9D:E7:4F:94:B7:75:DF:BA:32:A4:23:9E:EC:54:8C:E7:7C:22:45:FD:8A:A1:4D:7A:8A:AA:CA:E3:E5",
+        "B2:2B:3F:76:3D:68:02:65:FC:25:DF:D2:8A:B3:1E:40:67:BD:F5:47:21:15:F4:99:7A:D0:5B:AF:6C:4E:8A:A6",
+        "BA:57:D0:86:DE:F0:40:0C:3C:75:1D:6C:E0:29:87:B9:E3:8C:EB:08:2D:B9:BD:A8:E6:F3:CB:F5:B8:E5:75:D0"
       ]
     }
   }
